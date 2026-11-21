@@ -97,7 +97,7 @@ header {
 
 .header_container {
     margin-inline: 0;
-    inline-size: min(50.3125rem, 55%);
+    inline-size: min(59.3125rem, 60%);
     min-block-size: 4.5rem;
     display: flex;
     justify-content: space-between;
@@ -115,7 +115,7 @@ header {
 
 .header_container .desktop-nav a {
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 1rem;
     line-height: 1.5;
     color: inherit;
 }
