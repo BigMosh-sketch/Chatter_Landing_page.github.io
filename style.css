@@ -79,7 +79,7 @@ button {
 header {
     inline-size: 100%;
     min-block-size: 6.125rem;
-    padding-inline: clamp(1rem, 5vw, 4.5rem);
+    padding-inline: clamp(1rem, 5vw, 3.5rem);
     display: flex;
     justify-content: space-between;
     align-items: center;
